@@ -22,6 +22,7 @@ For this application we used:
 and clean, pragmatic design. 
 -Html,Javascript and Bootstrap for the front end.
 -Scikit-learn tools for data mining and data analysis
+
 ------------------------------------
 Software architecture and algorithms
 ------------------------------------
